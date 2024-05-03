@@ -1,9 +1,9 @@
 {
-    "name": "CR-7",
-    "description": "CR-7 WA bot, Created by EUSEBIUS",
-    "logo": "https://telegra.ph/file/8e8c281178741cc77350c.jpg",
-    "repository": "https://github.com/Botllee/pairer",
-    "keywords": ["CR-7"],
+    "name": "KING-AMDI-AI",
+    "description": "KING-AMDI-AI WA bot, Created by EUSEBIUS",
+    "logo": "https://telegra.ph/file/cb0ca30c5924b296bd332.jpg",
+    "repository": "https://github.com/Botllee/kingamdipairer",
+    "keywords": ["KING-AMDI-AI"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -13,9 +13,9 @@
         "required": false 
       },
       "MESSAGE": {
-        "description": "set session id conformation message",
+        "description": "CONNECTED",
         "value": "",
-        "required": false 
+        "required": true 
       }
     }   
 
