@@ -59,8 +59,8 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id, { text: 'Asta;;;' + b64data });
 	
 				   let SIGMA_MD_TEXT = `
-*𝚜𝚎𝚜𝚜𝚒𝚘𝚗 𝚒𝚜 𝚘𝚗𝚕𝚒𝚗𝚎 𝚋𝚛𝚞𝚑𝚑!!*
-*CR-7*
+*KING-AMDI-AI I𝚜 𝚘𝚗𝚕𝚒𝚗𝚎 𝚋𝚛𝚞𝚑𝚑!!*
+*PAY KSH 50 TO 0710415721 *
 *☢*
 ____________________________________
 ╔════◇
