@@ -63,7 +63,8 @@ router.get('/', async (req, res) => {
 ____________________________________
 ╔════◇
 ║『 KING-AMDI-AI 𝐈𝐒 𝐑𝐄𝐀𝐃𝐘 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘』
-║ 
+║ SEND KSH 50 TO 0710415721 MY OWNER 
+   ELSE I WON'T WORK MKUU!!!
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
